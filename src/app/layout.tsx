@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   title: "Archeet Shah - Computer Engineer",
   description:
     "Archeet Shah is a Computer Engineer with a passion for technology and innovation.",
+    icons: {
+    icon: 'data:,',
+  },
 };
 
 export default function RootLayout({
