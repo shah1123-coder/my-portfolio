@@ -60,7 +60,7 @@ export const products = [
     content: (
       <div>
         <p>
-          The Zoho People Virtual Assistant is an enterprise-grade AI solution that streamlines HR operations for organizations. Integrated directly with Zoho's HR platform, this GPT-based assistant handles employee queries ranging from leave balances to policy clarifications, serving over 200 employees efficiently.
+          The Zoho People Virtual Assistant is an enterprise-grade AI solution that streamlines HR operations for organizations. Integrated directly with Zoho&apos;s HR platform, this GPT-based assistant handles employee queries ranging from leave balances to policy clarifications, serving over 200 employees efficiently.
         </p>
         <p>
           By automating routine HR inquiries, the system has demonstrably reduced average response time by 2 minutes per query, translating to significant time savings across the organization. The assistant understands context, maintains conversation history, and provides accurate information by querying Zoho APIs in real-time, ensuring employees always receive up-to-date responses.
@@ -102,7 +102,7 @@ export const products = [
     content: (
       <div>
         <p>
-          The Eco-Friendly Autonomous Drones project demonstrates how cutting-edge technology can be built sustainably. These two drones are constructed entirely from recycled and repurposed electronic components, proving that innovation doesn't require new materials at the cost of environmental impact.
+          The Eco-Friendly Autonomous Drones project demonstrates how cutting-edge technology can be built sustainably. These two drones are constructed entirely from recycled and repurposed electronic components, proving that innovation doesn&apos;t require new materials at the cost of environmental impact.
         </p>
         <p>
           One drone is designed for environmental cleaning operations, capable of identifying and collecting lightweight debris in outdoor spaces. The second drone features FPV (First Person View) capabilities for immersive flight experiences. Both platforms showcase autonomous flight capabilities while championing sustainability through the creative reuse of electronic waste, making advanced aerial robotics more accessible and environmentally responsible.
