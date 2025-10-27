@@ -90,7 +90,7 @@ export const products = [
     ),
   },
   {
-    href: "https://github.com/archeetshah/eco-drone",
+    href: "https://youtu.be/23lsLJ81GwU",
     title: "Autonomous Drones",
     description:
       "Two drones built entirely from recycled components — one for environmental cleaning and another for FPV flight. Designed for sustainability and autonomy.",
