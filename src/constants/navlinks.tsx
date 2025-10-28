@@ -34,11 +34,11 @@ export const navlinks = [
   //   label: "Research",
   //   icon: IconFlask,
   // },
-  // {
-  //   href: "/blog",
-  //   label: "Articles",
-  //   icon: IconArticle,
-  // },
+  {
+    href: "/blog",
+    label: "Articles",
+    icon: IconArticle,
+  },
   {
     href: "/contact",
     label: "Contact",
